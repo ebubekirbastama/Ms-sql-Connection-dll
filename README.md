@@ -173,6 +173,6 @@ Repository içerisinde `LICENSE` dosyası bulunmaktadır. Eski `Beni oku.txt` do
 
 ## 👨‍💻 Geliştirici
 
-**Ebubekir Baştama**
+**Ebubekir Bastama**
 
 GitHub: https://github.com/ebubekirbastama
